@@ -4,10 +4,10 @@ The RM’s available for download and installed with a few clicks, and it will e
 
 
 
-# For More Information
+## For More Information
 Contact Avgoustinos Avgousti 
 The Cyprus Institute
 email: a.avgousti@cyi.ac.cy
 
-# Installation Procedures
+## Installation Procedures
 https://rms.cyi.ac.cy/Community_Reusable_Semantic_Metadata_Content_Models_documentation
